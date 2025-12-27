@@ -107,4 +107,4 @@ Data -> MySQL -> Data Cleaning & Preparation -> EDA -> Power BI Dashboard
 ### ✅ Page 4: Summary  
 > Final insights from EDA, including correlations and demographic trends.  
 
-<img src="PowerBi/page4_summary.png" alt="Page 4 - Summary" width="700"/>
+<img src="PowerBI/page4_summary.png" alt="Page 4 - Summary" width="700"/>
