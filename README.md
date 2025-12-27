@@ -4,13 +4,13 @@ This project focuses on building an interactive **Banking_loan_Dashboard** using
 
 ---
 
-## 📌 Project Workflow
+##  Project Workflow
 
 Data -> MySQL -> Data Cleaning & Preparation -> EDA -> Power BI Dashboard
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 - **Number of columns**: 24
 - **Stored in**: MySQL
@@ -90,21 +90,21 @@ Data -> MySQL -> Data Cleaning & Preparation -> EDA -> Power BI Dashboard
 
 ---
 
-### ✅ Page 2: Loan Analysis  
+###  Page 2: Loan Analysis  
 > Insights into loan distribution, types, and customer segments.  
 
 <img src="PowerBI/page2_loan_analysis.png" alt="Page 2 - Loan Analysis" width="700"/>
 
 ---
 
-### ✅ Page 3: Deposit Analysis  
+###  Page 3: Deposit Analysis  
 > Breakdown of account balances, deposit types, and correlation patterns.  
 
 <img src="PowerBI/page3_deposit_analysis.png" alt="Page 3 - Deposit Analysis" width="700"/>
 
 ---
 
-### ✅ Page 4: Summary  
+###  Page 4: Summary  
 > Final insights from EDA, including correlations and demographic trends.  
 
 <img src="PowerBI/page4_summary.png" alt="Page 4 - Summary" width="700"/>
