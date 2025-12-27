@@ -1,4 +1,4 @@
-# 🏦 Banking_loan_Dashboard - End-to-End Data Analysis Project
+#  Banking_loan_Dashboard - End-to-End Data Analysis Project
 
 This project focuses on building an interactive **Banking_loan_Dashboard** using Power BI. It involves the complete data analysis lifecycle — from data cleaning and transformation to exploratory data analysis (EDA) and visualization.
 
